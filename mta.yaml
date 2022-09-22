@@ -48,7 +48,7 @@ modules:
       - name: risk-management-xsuaa
       - name: risk-management-db
 
-  # --------------------  APPROUTER -----------------------------
+  # --------------------  APPROUTER ---------------------------
   - name: risk-management-approuter
     # ------------------------------------------------------------
     type: nodejs
